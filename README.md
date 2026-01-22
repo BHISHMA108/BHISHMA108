@@ -124,6 +124,38 @@ A passionate software Engineer<br><br>I’m currently in 4rd Year Pursuing Educa
 
 </div>
 
+<div align="center">
+
+### Fira Code
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=700&color=00FF99&center=true&vCenter=true&width=450&lines=Fira+Code+Font+Preview" />
+
+### Roboto
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=700&color=FF69B4&center=true&vCenter=true&width=450&lines=Roboto+Font+Preview" />
+
+### Roboto Mono
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=20&pause=700&color=FFD700&center=true&vCenter=true&width=450&lines=Roboto+Mono+Font+Preview" />
+
+### JetBrains Mono
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=700&color=00BFFF&center=true&vCenter=true&width=450&lines=JetBrains+Mono+Font+Preview" />
+
+### Space Mono
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&pause=700&color=FF4500&center=true&vCenter=true&width=450&lines=Space+Mono+Font+Preview" />
+
+### Ubuntu
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=20&pause=700&color=8A2BE2&center=true&vCenter=true&width=450&lines=Ubuntu+Font+Preview" />
+
+### Cascadia Code
+<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=20&pause=700&color=32CD32&center=true&vCenter=true&width=450&lines=Cascadia+Code+Font+Preview" />
+
+### Courier Prime
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&pause=700&color=FF1493&center=true&vCenter=true&width=450&lines=Courier+Prime+Font+Preview" />
+
+### DM Mono
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=20&pause=700&color=00CED1&center=true&vCenter=true&width=450&lines=DM+Mono+Font+Preview" />
+
+</div>
+
+
 <!-- ================================================================ -->
 
 
