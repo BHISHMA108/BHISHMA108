@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-### Roboto
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=700&color=FFFFFF&Center=true&width=2900&lines=A+passionate+Software+Engineer+currently+in+4rd+Year+Pursuing+Education+from+VIT,+Pune+learning+Next.js+and+React+Query" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=700&color=FFFFFF&center=true&vCenter=true&width=2900&lines=A+passionate+Software+Engineer+currently+in+4rd+Year+Pursuing+Education+from+VIT,+Pune+learning+Next.js+and+React+Query" />
 
 <br/>
 <br/>
