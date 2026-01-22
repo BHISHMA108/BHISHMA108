@@ -38,26 +38,25 @@ A passionate software Engineer<br><br>I’m currently in 4rd Year Pursuing Educa
 ![](https://github-profile-3d-contrib.vercel.app/api?username=BHISHMA108&theme=green)
 
 <br/>
+<br/>
 
 <!-- Activity Graph -->
 ![](https://github-readme-activity-graph.vercel.app/graph?username=BHISHMA108&theme=github-dark)
 
----
+<br/>
+<br/>
 
 # Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BHISHMA108&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <div align="center">
-  <br>
 <img 
   src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
   alt="snake eating my contributions"
 />
-  
-  <br/><br/>
 </div>
-
----
+<br/>
+<br/>
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BHISHMA108&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
