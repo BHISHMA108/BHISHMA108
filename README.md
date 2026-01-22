@@ -58,4 +58,36 @@ A passionate software Engineer<br><br>I’m currently in 4rd Year Pursuing Educa
 ---
 [![](https://visitcount.itsvg.in/api?id=BHISHMA679&icon=10&color=13)](https://visitcount.itsvg.in)
 
+<!-- ================== DYNAMIC VISUAL ELEMENTS ================== -->
+
+## 📈 Contribution Activity (Dynamic)
+
+<!-- 3D Contribution Graph -->
+![](https://github-profile-3d-contrib.vercel.app/api?username=BHISHMA108&theme=green)
+
+<br/>
+
+<!-- Activity Graph -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=BHISHMA108&theme=github-dark)
+
+---
+
+## 📊 GitHub Metrics (Auto-Updating)
+
+![](https://metrics.lecoq.io/BHISHMA108?template=classic&activity=1&languages=1&isocalendar=1&isocalendar.duration=half-year)
+
+---
+
+## 🐍 Contribution Snake (Working Version)
+
+<div align="center">
+  <img 
+    alt="snake eating my contributions"
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+</div>
+
+<!-- ============================================================ -->
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
