@@ -1,11 +1,12 @@
 # 💫 About Me:
-
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=700&color=FFFFFF&center=true&vCenter=true&width=2900&lines=A+passionate+Software+Engineer+currently+in+4rd+Year+Pursuing+Education+from+VIT,+Pune+learning+Next.js+and+React+Query" />
+<br/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=70&pause=5000&color=FFFFFF&center=true&vCenter=true&height=100&width=4100&lines=A+passionate+Software+Engineer+currently+in+4rd+Year+Pursuing+Education+from+VIT,+Pune+learning+Next.js+and+React+Query." />
 
 <br/>
 <br/>
 
-# Tech Stack:
+# Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -57,37 +58,36 @@
 <br/>
 <br/>
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BHISHMA108&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=BHISHMA108&theme=ambient_gradient&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHISHMA108&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=BHISHMA108&theme=default&hide_border=false&text_color=FFFFFF&bg_color=000000&border_color=1F6FEB&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHISHMA108&theme=default&hide_border=false&text_color=FFFFFF&bg_color=000000&border_color=1F6FEB&include_all_commits=false&count_private=false&layout=compact)
+
 <br/>
 <br/>
 
 
-<div align="center">
-
+<!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+
+![](https://github-readme-streak-stats.herokuapp.com/user=BHISHMA108&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&stroke=00FF00&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000)
 
 ![](https://github-readme-stats.vercel.app/api?username=BHISHMA108&theme=tokyonight&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BHISHMA108&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHISHMA108&theme=tokyonight&hide_border=true&layout=compact)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" /> -->
 
 </div>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=320&lines=GitHub+Activity+Overview;Consistency+%3E+Intensity" />
+<img src="https://readme-typing-svg.demolab.com?font=roboto&size=88&pause=1000&color=1F6FEB&center=true&vCenter=true&fontWeight=700&height=100&width=4020&lines=Consistency+%3E+Intensity;+Code.+Commit.+Repeat.;+Consistency+Beats+Talent;+Clean+Code+%7C+Consistent+Growth;+Progress+Over+Perfection;+Consistency+Beats+Talent;" />
 
 </div>
 
 
 
-<div style="font-family: 'Roboto', sans-serif; width: 100%; text-align: center; padding: 20px; background: linear-gradient(135deg, #f3ec78, #af4261); border-radius: 10px;">
-  <h3># Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=ambient_gradient" alt="Random Dev Quote" style="max-width: 100%; border-radius: 8px;" />
-</div>
+# Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=black&background=FFFFFF&color=000000&border=#1F6FEB" alt="Random Dev Quote" style="max-width: 100%; border-radius: 8px;" />
 
 <br/>
 <br/>
