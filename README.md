@@ -32,13 +32,10 @@ A passionate software Engineer<br><br>I’m currently in 4rd Year Pursuing Educa
 
 <!-- ================== DYNAMIC VISUAL ELEMENTS ================== -->
 
-## 📈 Contribution Activity (Dynamic)
+# Contribution Activity (Dynamic)
 
 <!-- 3D Contribution Graph -->
 ![](https://github-profile-3d-contrib.vercel.app/api?username=BHISHMA108&theme=green)
-
-<br/>
-<br/>
 
 <!-- Activity Graph -->
 ![](https://github-readme-activity-graph.vercel.app/graph?username=BHISHMA108&theme=github-dark)
