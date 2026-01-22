@@ -62,17 +62,23 @@ A passionate software Engineer<br><br>I’m currently in 4rd Year Pursuing Educa
 <br/>
 <br/>
 
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 
 ![](https://github-readme-stats.vercel.app/api?username=BHISHMA108&theme=tokyonight&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BHISHMA108&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHISHMA108&theme=tokyonight&hide_border=true&layout=compact)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+
 </div>
 
 
+
 # Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=ambient_gradient)
 <br/>
 <br/>
 
