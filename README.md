@@ -80,6 +80,51 @@ A passionate software Engineer<br><br>I’m currently in 4rd Year Pursuing Educa
 
 </div>
 
+<!-- ================== ATTENTION GRABBER MEGA BLOCK ================== -->
+
+<div align="center">
+
+<!-- Strong Personal Branding -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00E5FF&center=true&vCenter=true&width=420&lines=Bhishma+Dandekar;Software+Engineer+in+Progress" />
+
+<br/>
+
+<!-- Professional / Recruiter Friendly -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=58A6FF&center=true&vCenter=true&width=420&lines=GitHub+Activity+Overview;Clean+Code+%7C+Consistent+Growth" />
+
+<br/>
+
+<!-- Neon / Hacker Vibe -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00FF99&center=true&vCenter=true&width=420&lines=Tracking+Daily+Commits...;Building+In+Public+⚡" />
+
+<br/>
+
+<!-- Motivational / Grind -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=420&lines=Consistency+Beats+Talent;Showing+Up+Every+Day+🚀" />
+
+<br/>
+
+<!-- Minimal GitHub Theme -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1100&color=C9D1D9&center=true&vCenter=true&width=420&lines=Code.+Commit.+Repeat." />
+
+<br/>
+
+<!-- Gamified / Fun -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=700&color=FF4C4C&center=true&vCenter=true&width=420&lines=XP+Gained+Daily+📈;Leveling+Up+as+a+Developer" />
+
+<br/>
+
+<!-- Calm / Premium -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=420&lines=Engineering+with+Intent;Progress+Over+Perfection" />
+
+<br/><br/>
+
+<!-- Glow Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+
+</div>
+
+<!-- ================================================================ -->
 
 
 # Random Dev Quote
