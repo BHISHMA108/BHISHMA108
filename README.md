@@ -74,6 +74,11 @@ A passionate software Engineer<br><br>I’m currently in 4rd Year Pursuing Educa
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 
 </div>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=320&lines=GitHub+Activity+Overview;Consistency+%3E+Intensity" />
+
+</div>
 
 
 
