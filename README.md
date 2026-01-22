@@ -30,17 +30,19 @@ A passionate software Engineer<br><br>I’m currently in 4rd Year Pursuing Educa
 <br/>
 <br/>
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BHISHMA108&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BHISHMA108&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHISHMA108&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br/>
+<!-- ================== DYNAMIC VISUAL ELEMENTS ================== -->
+
+## 📈 Contribution Activity (Dynamic)
+
+<!-- 3D Contribution Graph -->
+![](https://github-profile-3d-contrib.vercel.app/api?username=BHISHMA108&theme=green)
+
 <br/>
 
-# Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-<br/>
-<br/>
+<!-- Activity Graph -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=BHISHMA108&theme=github-dark)
+
+---
 
 # Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BHISHMA108&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -56,47 +58,21 @@ A passionate software Engineer<br><br>I’m currently in 4rd Year Pursuing Educa
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BHISHMA679&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<!-- ================== DYNAMIC VISUAL ELEMENTS ================== -->
-
-## 📈 Contribution Activity (Dynamic)
-
-<!-- 3D Contribution Graph -->
-![](https://github-profile-3d-contrib.vercel.app/api?username=BHISHMA108&theme=green)
-
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BHISHMA108&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BHISHMA108&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHISHMA108&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 <br/>
 
-<!-- Activity Graph -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=BHISHMA108&theme=github-dark)
+# Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<br/>
+<br/>
 
----
 
-<!-- ================== VISITOR ATTRACTION BLOCK ================== -->
+[![](https://visitcount.itsvg.in/api?id=BHISHMA679&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF99&center=true&vCenter=true&width=320&lines=Loading+Profile...;Welcome+Explorer+🚀;Enjoy+Your+Stay+✨" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/✨%20ELITE%20DEVELOPER-LEVEL%20UP-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Power%20Level-9000%2B-ff004f?style=for-the-badge" />
-
-<br/><br/>
-
-![Badge](https://img.shields.io/badge/🚀%20Full%20Stack-Developer-success?style=for-the-badge)
-![Badge](https://img.shields.io/badge/⚡%20MERN-Engineer-blueviolet?style=for-the-badge)
-![Badge](https://img.shields.io/badge/🎨%20UI%2FUX-Creator-orange?style=for-the-badge)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
-
-</div>
-
-<!-- ============================================================= -->
 
