@@ -72,22 +72,31 @@ A passionate software Engineer<br><br>I’m currently in 4rd Year Pursuing Educa
 
 ---
 
-## 📊 GitHub Metrics (Auto-Updating)
-
-![](https://metrics.lecoq.io/BHISHMA108?template=classic&activity=1&languages=1&isocalendar=1&isocalendar.duration=half-year)
-
----
-
-## 🐍 Contribution Snake (Working Version)
+<!-- ================== VISITOR ATTRACTION BLOCK ================== -->
 
 <div align="center">
-  <img 
-    alt="snake eating my contributions"
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF99&center=true&vCenter=true&width=320&lines=Loading+Profile...;Welcome+Explorer+🚀;Enjoy+Your+Stay+✨" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/✨%20ELITE%20DEVELOPER-LEVEL%20UP-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Power%20Level-9000%2B-ff004f?style=for-the-badge" />
+
+<br/><br/>
+
+![Badge](https://img.shields.io/badge/🚀%20Full%20Stack-Developer-success?style=for-the-badge)
+![Badge](https://img.shields.io/badge/⚡%20MERN-Engineer-blueviolet?style=for-the-badge)
+![Badge](https://img.shields.io/badge/🎨%20UI%2FUX-Creator-orange?style=for-the-badge)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+
 </div>
 
-<!-- ============================================================ -->
+<!-- ============================================================= -->
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
