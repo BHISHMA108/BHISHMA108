@@ -62,41 +62,13 @@ A passionate software Engineer<br><br>I’m currently in 4rd Year Pursuing Educa
 <br/>
 <br/>
 
-<!-- ================== GLOWING GITHUB STATS BLOCK ================== -->
-
 <div align="center">
 
-<!-- Attention grabber -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF99&center=true&vCenter=true&width=360&lines=GitHub+Stats+%7C+Consistency+%7C+Growth;Building+Every+Day+🚀" />
-
-<br/>
-
-<!-- Top glow divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
-
-<br/>
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=BHISHMA108&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BHISHMA108&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHISHMA108&theme=tokyonight&hide_border=true&layout=compact" />
-
-<br/>
-
-<!-- Bottom glow divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+![](https://github-readme-stats.vercel.app/api?username=BHISHMA108&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BHISHMA108&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHISHMA108&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
-
-<!-- =============================================================== -->
 
 
 # Random Dev Quote
