@@ -42,7 +42,7 @@ A passionate software Engineer<br><br>I’m currently in 4rd Year Pursuing Educa
 <!--   <h2>🐍 My Contributions 🐍</h2> -->
   <br>
 <img 
-  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark" 
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
   alt="snake eating my contributions"
 />
   
