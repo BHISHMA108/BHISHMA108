@@ -32,7 +32,7 @@ A passionate software Engineer<br><br>I’m currently in 4rd Year Pursuing Educa
 
 <!-- ================== DYNAMIC VISUAL ELEMENTS ================== -->
 
-# Contribution Activity (Dynamic)
+# Contribution Activity
 
 <!-- 3D Contribution Graph -->
 ![](https://github-profile-3d-contrib.vercel.app/api?username=BHISHMA108&theme=green)
@@ -56,8 +56,8 @@ A passionate software Engineer<br><br>I’m currently in 4rd Year Pursuing Educa
 <br/>
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BHISHMA108&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BHISHMA108&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=BHISHMA108&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BHISHMA108&theme=ambient_gradient&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHISHMA108&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
 <br/>
